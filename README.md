@@ -6,10 +6,10 @@
 
 # 🦴 Awesome 3D Character Rigging & Animation 🎬
 
-[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followess/ishandutta2007?label=Follow" /></a>
 
 **A curated, production-tested showcase of SaaS platforms, AI models, and open-source tools for automated 3D character rigging, skin weighting, markerless motion capture (mocap), and skeletal animation.**
 
@@ -24,9 +24,9 @@
 - [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS & Hosted Rigging/Animation Platforms](#️-saas--hosted-rigginganimation-platforms)
 - [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
-- [📈 Star History](#-star-history)
 - [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
 - [📜 Disclaimer & Licensing](#-disclaimer--licensing)
 
 ---
@@ -103,12 +103,6 @@ The market dynamics reflect a **moderately fragmented, bifurcated ecosystem**: w
 
 ---
 
-## 📈 Star History
-
-[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-3D-Character-Rigging-Animation&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-3D-Character-Rigging-Animation&type=date&legend=top-left)
-
----
-
 ## 💖 Support & Sponsorship
 
 If this curated repository saved you hours of scouring forums or helped streamline your 3D animation and rigging pipeline, please consider supporting the project:
@@ -134,6 +128,11 @@ We welcome contributions from 3D animators, technical artists, game developers, 
    - Real star count badge and direct repository link (for Open Source)
    - Clear, concise technical description
 4. **Submit a Pull Request** with a descriptive summary of what you added or improved.
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-3D-Character-Rigging-Animation&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-3D-Character-Rigging-Animation&type=date&legend=top-left)
 
 ---
 
