@@ -1,7 +1,7 @@
 # Awesome-3D-Character-Rigging-Animation
 # Awesome-3D-Character-Rigging-Animation
 
-# Top 3D Character Rigging & Animation Ecosystem
+## Top 3D Character Rigging & Animation Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Automated 3D Character Rigging, Skin Weighting, AI Motion Capture & Skeletal Animation Suites*  
