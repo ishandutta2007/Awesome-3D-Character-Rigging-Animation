@@ -62,9 +62,9 @@ The market dynamics reflect a **moderately fragmented, bifurcated ecosystem**: w
 ## 🛠️ Open-Source GitHub Projects
 
 > [!TIP]
-> The table below showcases the strongest open-source auto-riggers, AI mocap suites, and generative text-to-motion frameworks. Projects are sorted in **descending order by GitHub star count**. Star badges link directly to each repository's stargazers community.
+> The table below showcases the strongest open-source auto-riggers, AI mocap suites, and generative text-to-motion frameworks. Projects are sorted in **descending order by GitHub Stars_Count**. Stars_Badges link directly to each repository's stargazers community.
 
-| Project / Repository | GitHub Stars | Primary Focus / Architecture | License | Description |
+| Project / Repository | GitHub_Stars | Primary Focus / Architecture | License | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Godot Engine](https://github.com/godotengine/godot)** | [![Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) | Runtime Rigging & IK System | `MIT` | Multi-platform 2D/3D game engine featuring runtime `Skeleton3D`, inverse kinematics (`SkeletonIK3D`), animation blending trees, and retargeting modifiers. |
 | **[Blender](https://github.com/blender/blender)** | [![Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) | DCC Rigging & Animation Suite | `GPL-2.0+` | Complete open-source 3D creation suite featuring the **Rigify** modular character rigging system, automatic vertex heat-map weighting, Bendy Bones, and NLA. |
@@ -125,7 +125,7 @@ We welcome contributions from 3D animators, technical artists, game developers, 
 3. Make sure to include:
    - Tool or repo name and canonical link
    - Specific pricing tiers and explicit free limits (for SaaS)
-   - Real star count badge and direct repository link (for Open Source)
+   - Real Stars_Count badge and direct repository link (for Open Source)
    - Clear, concise technical description
 4. **Submit a Pull Request** with a descriptive summary of what you added or improved.
 
