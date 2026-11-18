@@ -62,7 +62,7 @@ The market dynamics reflect a **moderately fragmented, bifurcated ecosystem**: w
 ## 🛠️ Open-Source GitHub Projects
 
 > [!TIP]
-> The table below showcases the strongest open-source auto-riggers, AI mocap suites, and generative text-to-motion frameworks. Projects are sorted in **descending order by GitHub Stars_Count**. Stars_Badges link directly to each repository's stargazers community.
+> The table below showcases the strongest open-source auto-riggers, AI mocap suites, and generative text-to-motion frameworks. Projects are sorted in **descending order by GitHub_Stars_Count**. Stars_Badges link directly to each repository's stargazers community.
 
 | Project / Repository | GitHub_Stars | Primary Focus / Architecture | License | Description |
 | :--- | :--- | :--- | :--- | :--- |
