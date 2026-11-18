@@ -1,5 +1,4 @@
 # Awesome-3D-Character-Rigging-Animation
-# Awesome-3D-Character-Rigging-Animation
 
 ## Top 3D Character Rigging & Animation Ecosystem
 
@@ -130,3 +129,5 @@ Star the repo if you find it useful!
 
 **Made for 3D character artists, technical artists, riggers, and game developers.**  
 Let's make 3D character rigging and animation more open, automated, and accessible.
+# Awesome-3D-Character-Rigging-Animation
+
